@@ -268,7 +268,6 @@ class GoogleWorkspaceServer {
               id: {
                 type: "string",
                 description: "Email ID to read",
-                required: true,
               },
               format: {
                 type: "string",
